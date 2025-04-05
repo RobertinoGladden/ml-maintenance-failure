@@ -4,6 +4,7 @@ This project presents a predictive maintenance system using a synthetic dataset 
 
 ## Project Structure
 
+```
 ├── ai4i2020.csv            # Dataset
 ├── app.py                  # Streamlit dashboard
 ├── main.ipynb              # Training script
@@ -11,6 +12,7 @@ This project presents a predictive maintenance system using a synthetic dataset 
 ├── README.md               # This documentation
 ├── scaler.pkl              # Saved StandardScaler
 └── requirements.txt        # Required Python packages
+```
 
 ## Dataset Description
 
